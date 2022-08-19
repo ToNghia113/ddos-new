@@ -66,7 +66,7 @@ public class Dos implements Runnable {
             dos.sslCheckConnection(url);
         }
 
-        System.out.println("Setting DoS By: ly trong nghia ");
+        System.out.println("edit code by: LTN");
 
         System.out.print("Thread: ");
         String amount = in.nextLine();
@@ -198,4 +198,3 @@ public class Dos implements Runnable {
         System.out.println("GET attack done!: " + responseCode + "Thread: " + this.seq);
     }
 }
-
