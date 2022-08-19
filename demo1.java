@@ -52,12 +52,7 @@ public class Dos implements Runnable {
         int attakingAmoun = 0;
         Dos dos = new Dos(0, 0);
         Scanner in = new Scanner(System.in);
-        System.out.println(" _______ _   _ _______ ____   ____  _      
-|__   __| \ | |__   __/ __ \ / __ \| |     
-   | |  |  \| |  | | | |  | | |  | | |     
-   | |  | . ` |  | | | |  | | |  | | |     
-   | |  | |\  |  | | | |__| | |__| | |____ 
-   |_|  |_| \_|  |_|  \____/ \____/|______|")
+        System.out.println("demo by Ly Trong Nghia")
         System.out.print(" url : ");
         url = in.nextLine();
         System.out.println("Bat dau tan cong\n");
